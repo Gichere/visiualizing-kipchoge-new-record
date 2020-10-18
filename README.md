@@ -131,6 +131,7 @@ g4<-g3+
            label = "Eliud Kipchoge\n12.10.2019\n1:59:40",
            colour = "black",size=3,hjust=0)
 g4
+images/kip.png
 ```
 
 
