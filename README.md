@@ -114,7 +114,7 @@ g2<-g1 +
                           "2:40","2:50","3:00"))
 
 g3<-g2+
-  labs(title = "Comparing Eliud Kipchoge marathon score to previous yearly records?",
+  labs(title = "How does Eliud Kipchoge marathon score compare to previous yearly records?",
        subtitle = "Points are world records for every 10-15 years. \nEliud Kipchoge is the first to break the two-hour barrier")+
   theme(panel.grid.minor = element_blank(),
         panel.grid.major = element_line(colour = "gray75", size = 0.1,
