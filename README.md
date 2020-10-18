@@ -131,9 +131,9 @@ g4<-g3+
            label = "Eliud Kipchoge\n12.10.2019\n1:59:40",
            colour = "black",size=3,hjust=0)
 g4
-images/kip.png
-```
 
+```
+https://github.com/Gichere/gichere.github.io/blob/master/images/kip.png
 
 The record might have not been official but it is a fact that Eliud Kipchoge is indeed a G.O.A.T of marathon.
 
