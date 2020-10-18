@@ -133,7 +133,8 @@ g4<-g3+
 g4
 
 ```
-https://github.com/Gichere/gichere.github.io/blob/master/images/kip.png
+images/kip.png
+<img src="images/kip.png">
 
 The record might have not been official but it is a fact that Eliud Kipchoge is indeed a G.O.A.T of marathon.
 
